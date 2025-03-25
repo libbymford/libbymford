@@ -15,6 +15,9 @@ Each markdown file in the `reflections/` directory provides insights into my exp
   ![neighborhoods](images/neighborhoods.webp)
 
 - **[SOAN218 Reflection](reflections/SOAN218.md)** - Basic Statistics in the Social Sciences
+
+![stats](images/Stats.jpg)
+  
 - **[CBSC185 Reflection](reflections/CBSC185.md)** - Introduction to Data Science: Trends Over Time
 - **[BUS306F Reflection](reflections/BUS306F.md)** - Data Visualization
 - **[DS195B Reflection](reflections/DS195B.md)** - Data for Deep Learning
@@ -23,11 +26,24 @@ Each markdown file in the `reflections/` directory provides insights into my exp
 ## Projects
 The `projects/` directory contains relevant files and scripts from coursework projects, showcasing my progression in coding, data visualization, and statistical modeling. PDFs of final projects are included in their respective folders.
 - **[SOAN265 Final Project](projects/SOAN265.pdf)** - Exploring Social Networks
+
+Example Visualization: 
    ![Exploring Social Networks](images/SOAN265image.png)
+   
 - **[SOAN266 Final Project](projects/SOAN266.pdf)** - Neighborhoods and Inequality
+  
+Example Visualization: 
    ![neighborhoods](images/SOAN266image.png)
+   
 - **[SOAN218 Final Project](projects/SOAN218.pdf)** - Basic Statistics in the Social Sciences
+
+Example Visualization: 
+  ![stats](images/SOAN218.png)
+  
 - **[CBSC185 Final Project](projects/CBSC185.docx)** - Introduction to Data Science: Trends Over Time
+
+Example Visualization: 
+
 - **[BUS306F Final Project](projects/BUS306F.md)** - Data Visualization
 - **[DS195B Final Project](projects/DS195B.md)** - Data for Deep Learning
 
