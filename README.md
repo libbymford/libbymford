@@ -10,4 +10,4 @@ I created this GitHub profile to showcase my **Data Science Portfolio**, where I
 - **Sociological & Historical Data Research**   
 
 ### 📂 My Portfolio  
-🔗 [Check out my Portfolio](portfolio.md)  
+🔗 [Check out my Portfolio](Portfolio.md)  
