@@ -21,6 +21,8 @@ This course introduced network analysis using R, focusing on how network structu
 - Learned to appreciate the iterative nature of data science and statistical modeling
 
 ## Final Project
+**[Link to Final Project](projects/SOAN265.pdf)**
+  
 The final project incorporated all course concepts and focused on analyzing a fictional social network (Hunger Games universe). Key aspects included:
 - Creating and refining network visualizations
 - Computing centrality measures (degree, closeness, betweenness)
