@@ -43,10 +43,10 @@ Each markdown file in the `reflections/` directory provides insights into my exp
 
 ## Projects
 The `projects/` directory contains relevant files and scripts from coursework projects, showcasing my progression in coding, data visualization, and statistical modeling. PDFs of final projects are included in their respective folders.
-- **[SOAN265.md](projects/SOAN265.md)** - Exploring Social Networks
-- **[SOAN266.md](projects/SOAN266.md)** - Neighborhoods and Inequality
-- **[SOAN218.md](projects/SOAN218.md)** - Basic Statistics in the Social Sciences
-- **[CBSC185.md](projects/CBSC185.md)** - Introduction to Data Science: Trends Over Time
+- **[SOAN265.md](projects/SOAN265.pdf)** - Exploring Social Networks
+- **[SOAN266.md](projects/SOAN266.pdf)** - Neighborhoods and Inequality
+- **[SOAN218.md](projects/SOAN218.pdf)** - Basic Statistics in the Social Sciences
+- **[CBSC185.md](projects/CBSC185.docx)** - Introduction to Data Science: Trends Over Time
 - **[BUS306F.md](projects/BUS306F.md)** - Data Visualization
 - **[DS195B.md](projects/DS195B.md)** - Data for Deep Learning
 
