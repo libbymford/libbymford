@@ -11,6 +11,9 @@ Each markdown file in the `reflections/` directory provides insights into my exp
   ![Exploring Social Networks](images/network.png)
   
 - **[SOAN266 Reflection](reflections/SOAN266.md)** - Neighborhoods and Inequality
+
+  ![neighborhoods](images/neighborhoods.webp)
+
 - **[SOAN218 Reflection](reflections/SOAN218.md)** - Basic Statistics in the Social Sciences
 - **[CBSC185 Reflection](reflections/CBSC185.md)** - Introduction to Data Science: Trends Over Time
 - **[BUS306F Reflection](reflections/BUS306F.md)** - Data Visualization
@@ -22,6 +25,7 @@ The `projects/` directory contains relevant files and scripts from coursework pr
 - **[SOAN265 Final Project](projects/SOAN265.pdf)** - Exploring Social Networks
    ![Exploring Social Networks](images/SOAN265image.png)
 - **[SOAN266 Final Project](projects/SOAN266.pdf)** - Neighborhoods and Inequality
+   ![neighborhoods](images/SOAN266image.png)
 - **[SOAN218 Final Project](projects/SOAN218.pdf)** - Basic Statistics in the Social Sciences
 - **[CBSC185 Final Project](projects/CBSC185.docx)** - Introduction to Data Science: Trends Over Time
 - **[BUS306F Final Project](projects/BUS306F.md)** - Data Visualization
