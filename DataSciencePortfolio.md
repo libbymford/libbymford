@@ -32,6 +32,15 @@ DS401-Reflection/
 ## Reflections
 Each markdown file in the `reflections/` directory provides insights into my experience with a specific course, including key learnings, challenges, and applications of data science principles.
 
+### Reflection Files
+- **[SOAN265.md](reflections/SOAN265.md)** - Exploring Social Networks
+- **[SOAN266.md](reflections/SOAN266.md)** - Neighborhoods and Inequality
+- **[SOAN218.md](reflections/SOAN218.md)** - Basic Statistics in the Social Sciences
+- **[CBSC185.md](reflections/CBSC185.md)** - Introduction to Data Science: Trends Over Time
+- **[BUS306F.md](reflections/BUS306F.md)** - Data Visualization
+- **[DS195B.md](reflections/DS195B.md)** - Data for Deep Learning
+
+
 ## Projects
 The `projects/` directory contains relevant files and scripts from coursework projects, showcasing my progression in coding, data visualization, and statistical modeling. PDFs of final projects are included in their respective folders.
 
