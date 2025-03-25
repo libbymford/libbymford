@@ -20,8 +20,6 @@ This course explored how residential contexts shape social inequalities, focusin
 - Gained confidence in conducting independent data-driven research
 
 ## Final Project
-**[Link to Final Project](projects/SOAN266.pdf)**
-
 My final project investigated how historical redlining shaped racial and economic disparities in Denver. Key analyses included:
 - Mapping redlined areas and overlaying them with crime and socioeconomic data
 - Running spatial regressions to examine how past redlining predicted poverty and racial composition
