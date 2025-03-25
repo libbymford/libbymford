@@ -7,7 +7,9 @@ Each markdown file in the `reflections/` directory provides insights into my exp
 
 ### Reflection Files
 - **[SOAN265 Reflection](reflections/SOAN265.md)** - Exploring Social Networks
- ![Exploring Social Networks](images/network.png)
+
+  ![Exploring Social Networks](images/network.png)
+  
 - **[SOAN266 Reflection](reflections/SOAN266.md)** - Neighborhoods and Inequality
 - **[SOAN218 Reflection](reflections/SOAN218.md)** - Basic Statistics in the Social Sciences
 - **[CBSC185 Reflection](reflections/CBSC185.md)** - Introduction to Data Science: Trends Over Time
