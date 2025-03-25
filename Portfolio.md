@@ -38,7 +38,7 @@ Example Visualization:
 - **[SOAN218 Final Project](projects/SOAN218.pdf)** - Basic Statistics in the Social Sciences
 
 Example Visualization: 
-  ![stats](images/SOAN218.png)
+  ![stats](images/SOAN218image.png)
   
 - **[CBSC185 Final Project](projects/CBSC185.docx)** - Introduction to Data Science: Trends Over Time
 
