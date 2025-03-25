@@ -19,6 +19,9 @@ Each markdown file in the `reflections/` directory provides insights into my exp
 ![stats](images/Stats.jpg)
   
 - **[CBSC185 Reflection](reflections/CBSC185.md)** - Introduction to Data Science: Trends Over Time
+
+![CBSC](images/psych.jpg)
+  
 - **[BUS306F Reflection](reflections/BUS306F.md)** - Data Visualization
 - **[DS195B Reflection](reflections/DS195B.md)** - Data for Deep Learning
 
@@ -43,6 +46,7 @@ Example Visualization:
 - **[CBSC185 Final Project](projects/CBSC185.docx)** - Introduction to Data Science: Trends Over Time
 
 Example Visualization: 
+![CBSC](images/CBSC185image.png)
 
 - **[BUS306F Final Project](projects/BUS306F.md)** - Data Visualization
 - **[DS195B Final Project](projects/DS195B.md)** - Data for Deep Learning
