@@ -48,14 +48,14 @@ Example Visualization:
 Example Visualization: 
 ![CBSC](images/CBSC185image.png)
 
-- **[BUS306F Final Project](projects/BUS306F.md)** - Data Visualization
+- **[BUS306F Final Project](projects/BUS306F.pdf)** - Data Visualization
 
 Example Visualization:
  ![bus](images/BUS306.png)
   
 - **[DS195B Final Podcast](projects/DS195B.md)** - Data for Deep Learning
 
-Example Visualization:
+Final Notebook LM:
  ![ds](images/DS.png)
 
 ## Ethics
