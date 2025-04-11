@@ -49,8 +49,12 @@ Example Visualization:
 ![CBSC](images/CBSC185image.png)
 
 - **[BUS306F Final Project](projects/BUS306F.md)** - Data Visualization
-- **[DS195B Final Project](projects/DS195B.md)** - Data for Deep Learning
-
+Example Visualization:
+ ![bus](images/BUS306.png)
+  
+- **[DS195B Final Notebook](projects/DS195B.md)** - Data for Deep Learning
+Example Visualization:
+ ![ds](images/DS.png)
 
 ## Ethics
 The `ethics.md` file outlines the ethical considerations I have learned and applied throughout my coursework in data science.
