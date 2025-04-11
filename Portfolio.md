@@ -53,7 +53,7 @@ Example Visualization:
 Example Visualization:
  ![bus](images/BUS306.png)
   
-- **[DS195B Final Podcast](projects/DS195)** - Data for Deep Learning
+- **[DS195B Final Podcast](projects/DS195.md)** - Data for Deep Learning
 
 Final Notebook LM:
  ![ds](images/DS.png)
